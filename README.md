@@ -3,8 +3,6 @@
   
   <br />
   <br />
-  <h1>Prashant Tiwari</h1>
-  <p>Building scalable applications from idea to deployment.</p>
   <p>FULL-STACK • AI & ML • DATA SCIENCE</p>
   
   <br />
