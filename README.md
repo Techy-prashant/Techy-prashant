@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/previewscreen.jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Techy-prashant/images_workIITM/refs/heads/main/previewscreen.jpg" alt="Banner" width="100%" />
   
   <br />
   <br />
