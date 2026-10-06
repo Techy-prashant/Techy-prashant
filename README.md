@@ -1,48 +1,59 @@
-<h1 align="center">Hi 👋, I'm Prashant Tiwari</h1>
-<h3 align="center">Full Stack Developer | AI & ML Engineer | Data Scientist | Digital Creator</h3>
+<div align="center">
+  <img src="./images/previewscreen.jpg" alt="Banner" width="100%" />
+  
+  <br />
+  <br />
+  <h1>Prashant Tiwari</h1>
+  <p>Building scalable applications from idea to deployment.</p>
+  <p>FULL-STACK • AI & ML • DATA SCIENCE</p>
+  
+  <br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Full--Stack-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-AI/ML-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Data%20Science-orange?style=flat-square" />
-</p>
+  <a href="https://linkedin.com/in/prashant-tiwari-6b440a313"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181b?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=ffffff" alt="LinkedIn" /></a>
+  <a href="https://github.com/Techy-prashant"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-18181b?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="GitHub" /></a>
+  <a href="mailto:pt286355@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-18181b?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="Email" /></a>
+  <a href="https://portfolio-v3-ten-gray.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW-18181b?style=for-the-badge&logo=vercel&logoColor=black&labelColor=ffffff" alt="Portfolio" /></a>
+  <a href="https://github.com/Techy-prashant/images_workIITM/blob/main/prashant%2C%20Technology%20and%20multimedia.pdf"><img src="https://img.shields.io/badge/RESUME-PDF-18181b?style=for-the-badge&logo=googlereader&logoColor=black&labelColor=ffffff" alt="Resume" /></a>
 
----
+  <br />
+  <br />
+</div>
 
-### 🚀 About Me
+### About
 
-- 🔭 **Currently working on:** [ProjectOS in Learning Phase](https://github.com/Techy-prashant/Phase-0-Learning-Phase)
-- 🌱 **Learning Path:** Mastering `C`, `C++`, and the `MERN Stack` (MongoDB, Express, React, Node).
-- 💻 **Portfolio:** Check out my work at [portfolio-v3-ten-gray.vercel.app](https://portfolio-v3-ten-gray.vercel.app/)
-- 💬 **Ask me about:** React, GSAP, Tailwind CSS, Flask, Jinja, SQL, TypeScript, and System Design.
-- 📄 **Resume:** [View my experience & skills](https://docs.google.com/document/d/1MbOqwp7k9G4LQj-HstsKTq_CMDJPD8IzjVMLnG3shzc/edit?usp=sharing)
-- 📫 **Reach me at:** [pt286355@gmail.com](mailto:pt286355@gmail.com)
+Most of my work focuses on building robust web applications and integrating machine learning solutions. I'm passionate about system design and creating digital experiences that are both highly functional and visually engaging.
 
----
+- **Studying:** C, C++, and the MERN Stack (MongoDB, Express, React, Node.js).
+- **Working on:** [ProjectOS](https://github.com/Techy-prashant/Phase-0-Learning-Phase), mastering foundational programming and backend architecture.
+- **Exploring:** Artificial Intelligence, Data Science workflows, and modern web architectures.
 
-### 🛠 Languages and Tools
+### Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) |
-| **Languages** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Design & Misc** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+![React](https://img.shields.io/badge/-React-18181b?style=flat-square&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/-Next.js-18181b?style=flat-square&logo=next.js&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-18181b?style=flat-square&logo=vuedotjs&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/-Tailwind-18181b?style=flat-square&logo=tailwind-css&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-18181b?style=flat-square&logo=typescript&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-18181b?style=flat-square&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-18181b?style=flat-square&logo=express&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-18181b?style=flat-square&logo=flask&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-18181b?style=flat-square&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C%2B%2B-18181b?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-18181b?style=flat-square&logo=openjdk&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-18181b?style=flat-square&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-18181b?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-18181b?style=flat-square&logo=blender&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-18181b?style=flat-square&logo=linux&logoColor=white)
 
----
+### Selected builds
 
-### 📊 GitHub Stats
+- **[Portfolio v3](https://portfolio-v3-ten-gray.vercel.app/)**: Personal portfolio showcasing my development journey, projects, and skills. Built with modern web technologies and a focus on sleek user experience.
+- **[ProjectOS](https://github.com/Techy-prashant/Phase-0-Learning-Phase)**: A foundational learning environment focusing on core concepts like C, C++, and System Design.
+
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techy-prashant&show_icons=true&locale=en&layout=compact&theme=dark" alt="techy-prashant" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/prashant-tiwari-6b440a313" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/_.prashant.me" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techy-prashant&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=18181b&hide_border=true&title_color=ffffff&text_color=a1a1aa" alt="techy-prashant" />
 </p>
