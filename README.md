@@ -4,9 +4,7 @@
   <br />
   <br />
   <p>FULL-STACK • AI & ML • DATA SCIENCE</p>
-  
   <br />
-
   <a href="https://linkedin.com/in/prashant-tiwari-6b440a313"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-18181b?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=ffffff" alt="LinkedIn" /></a>
   <a href="https://github.com/Techy-prashant"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-18181b?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="GitHub" /></a>
   <a href="mailto:pt286355@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-18181b?style=for-the-badge&logo=gmail&logoColor=black&labelColor=ffffff" alt="Email" /></a>
